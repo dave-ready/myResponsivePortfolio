@@ -19,4 +19,4 @@ Contact
 
 
 
-https://dave-ready.github.io/responsive-portfolio-homework/
+https://dave-ready.github.io/myResponsivePortfolio
